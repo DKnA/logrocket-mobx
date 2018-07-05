@@ -22,10 +22,10 @@
     "is-accessor-descriptor": "^0.1.6",
     "is-data-descriptor": "^0.1.4",
     "kind-of": "^4.0.0",
-    "mobx": "^3.1.15"
+    "mobx": "^4.1.0"
   },
   "peerDependencies": {
-    "mobx": "3.x"
+    "mobx": "4.x"
   },
   "devDependencies": {
     "babel-cli": "^6.11.4",
